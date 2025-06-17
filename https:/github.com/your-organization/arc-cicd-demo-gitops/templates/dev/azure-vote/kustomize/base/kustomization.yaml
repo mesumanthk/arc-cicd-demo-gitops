@@ -5,8 +5,8 @@ namespace: dev
 
 images:
   - name: arck8sregistry/.azurecr.io//azure-vote-front
-    newTag: fb8e1d3f76c249de77bccad6a256d728fcd9ad98
+    newTag: 6655fe54af92519e442441ac5c229faa1517f9f2
   - name: arck8sregistry/.azurecr.io//azure-vote-back
-    newTag: fb8e1d3f76c249de77bccad6a256d728fcd9ad98
+    newTag: 6655fe54af92519e442441ac5c229faa1517f9f2
 resources:
   - manifests.yaml
